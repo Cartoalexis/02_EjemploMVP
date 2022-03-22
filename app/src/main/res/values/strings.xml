@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">02_EjemploMVP</string>
+    <string name="mvp">MVP</string>
+    <string name="ingrese_usuario">Ingrese Usuario</string>
+    <string name="ingrese_contrasena">Ingrese Contraseña</string>
+    <string name="login">LOGIN</string>
+    <string name="lograste_ingresar">Lograste \n Ingresar \n :-)</string>
+</resources>
